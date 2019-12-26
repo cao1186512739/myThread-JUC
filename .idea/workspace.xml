@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="018b26ae-793e-480c-a8a2-483cc5378e47" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/opendev/pool/MyExecutors.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -20,7 +19,20 @@
     <favorites_list name="myThread" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/opendev/pool/MyExecutors.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="372">
+              <caret line="19" column="37" lean-forward="true" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -65,11 +77,11 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-13" />
-    <option name="y" value="11" />
-    <option name="width" value="1934" />
-    <option name="height" value="1050" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="1" />
+    <option name="y" value="1" />
+    <option name="width" value="1918" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -127,7 +139,7 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="opendev" type="462c0819:PsiDirectoryNode" />
-              <item name="tools" type="462c0819:PsiDirectoryNode" />
+              <item name="pool" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -141,6 +153,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../市政项目显示屏/mydemo" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -251,22 +264,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1577081373317</updated>
-      <workItem from="1577081376167" duration="25362000" />
+      <workItem from="1577081376167" duration="28046000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25362000" />
+    <option name="totallyTimeSpent" value="28046000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-10" y="9" width="1547" height="840" extended-state="0" />
+    <frame x="1" y="1" width="1534" height="832" extended-state="1" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" sideWeight="0.59039545" side_tool="true" weight="0.23774345" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4078624" visible="true" weight="0.23774345" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4078624" visible="true" weight="0.2398374" />
       <window_info id="Structure" order="1" sideWeight="0.5921376" side_tool="true" weight="0.23774345" />
       <window_info anchor="bottom" id="Messages" weight="0.32768363" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
